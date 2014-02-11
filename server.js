@@ -40,7 +40,7 @@ var serverDefaults = {
 };
 
 var computeDefaults = {
-  serverRender: false,
+  serverRender: true,
   skipES5Shim: false,
   useBrowserBuiltins: false,
   logTiming: false,
